@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
@@ -14,32 +14,32 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 细雨听风吟 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 每天收货一点点 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Welcome to my blog, a creative space where ideas come to life. Here, I'll be documenting my thoughts, exploring concepts, and sharing the journey of how ideas develop and transform. This blog is more than just a collection of writings—it's a living record of my intellectual curiosity, personal growth, and unique perspectives. Whether I'm tracing the evolution of a concept, reflecting on personal experiences, or diving deep into topics that fascinate me, each post represents a snapshot of my thinking process. I invite you to join me on this exploration, to witness how thoughts take shape, and perhaps find inspiration in the way ideas can unfold and connect. Stay tuned for insights, reflections, and the ongoing story of ideas in progress.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://algdot.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: algdot # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: algdot # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: baiju
+  email: baiju@algdot.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # https://twitter.com/algdot # change to your Twitter homepage
+    # https://github.com/algdot # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
